@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Brandon Eduardo Sanchez
+Brandon Eduardo Sanchez
 
 <div align="center">
   
